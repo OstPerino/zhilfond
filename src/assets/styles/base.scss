@@ -1,0 +1,17 @@
+@import "./reset";
+@import "./variables";
+
+#app {
+  font: var(--font-m);
+
+  font-family: var(--);
+
+  background-color: var(--main-white);
+
+  color: var(--main-black);
+}
+
+.page {
+  width: 100%;
+  height: 100%;
+}
